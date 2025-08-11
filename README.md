@@ -4,7 +4,7 @@ A Unity-based recreation of SuperHot's core experience, focusing on its iconic t
 
 # Core Features
 
-## 1.Time Manipulation System
+## 1. Time Manipulation System
 
 A innovative time-flow mechanic: time slows to a near halt when the player stands still, and resumes normal speed during movement, aiming, or attacks—giving you ample tactical space to plan every move.
 
@@ -22,6 +22,6 @@ Automatically records every detail of each battle, including movement paths, sho
 
 # Upcoming Plans
 
-## Online Multiplayer (In Development)
+## 1. Online Multiplayer (In Development)
 
 Planned support for 2-4 player online battles, including cooperative missions and competitive modes. The time manipulation mechanic will be synchronized across players to enable new team-based tactics.
