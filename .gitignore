@@ -7,6 +7,10 @@
 # Rider
 .idea/
 
+# Unity Version Control
+ignore.conf
+.plastic
+
 # Unity
 Library/
 Logs/

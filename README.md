@@ -2,6 +2,8 @@
 
 A Unity-based recreation of SuperHot's core experience, focusing on its iconic time manipulation mechanics and combat replay features to deliver the unique "time as a weapon" tactical shooting gameplay.
 
+![Demo](./Assets/Recording.gif)
+
 # Core Features
 
 ## 1. Time Manipulation System
@@ -15,10 +17,9 @@ Automatically records every detail of each battle, including movement paths, sho
 # How to Play
 
 * Movement: Use WASD keys to move your character.
-* Aim: Drag the mouse to adjust your view and aim your weapon.
+* Aim: Drag the mouse to turn around and aim your weapon.
 * Shoot: Left-click to fire your current weapon.
-* Throw Weapon: Right-click to throw your equipped weapon.
-* Reset Level: Press R to restart the current level.
+* After you kill all enemies, the replay will begin automatically.
 
 # Upcoming Plans
 
